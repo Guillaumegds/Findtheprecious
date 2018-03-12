@@ -174,8 +174,8 @@ background-color: black;
 }
 /*Au survol des Cards */
 
-@media screen and (max-width:992) {
+@media screen and (max-width:992px) {
   .barre {
-    border-right:none;
+    border:none;
   }
 }
